@@ -1,5 +1,13 @@
-### Hi there 👋
 
+- A master student at University of Tokyo
+- 🔭 I’m currently working on doing research on wireless technologies, networks, and programming.
+- 🌱 I’m currently doing wireless networks and server management.
+- 👯 I will make a tycoon online game until I graduate from school.
+- 👯 Still, I'd like to go to a full-time software engineer internship during my master.
+- ⚡ I love Panpangy (aka C.C. Lemon in Japan)
+- 📫 How to reach me: [my_user_name]@gmail.com
+
+  
 <!--
 **e60e256/e60e256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
