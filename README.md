@@ -1,6 +1,7 @@
 
 - A master student at University of Tokyo
-- 🔭 I’m currently working on doing research on wireless technologies, networks, and programming.
+- 🔭 I'm going to do research about wireless technologies, networks, or programming (research theme not determined yet).
+- 🌞 Last year, I was doing research on estimating IV-curves of a solar panel from data points in operational power plant.
 - 🌱 I’m currently doing wireless networks and server management.
 - 👯 I will make a tycoon online game until I graduate from school.
 - 👯 Still, I'd like to go to a full-time software engineer internship during my master.
